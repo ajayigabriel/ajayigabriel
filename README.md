@@ -1,4 +1,5 @@
-https://www.canva.com/design/DAFmdVh3p_I/QFE05NPA2IK4P_WZHBn0Lg/edit?utm_content=DAFmdVh3p_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<img align="right" alt="GIF" src="(https://www.canva.com/design/DAFmdVh3p_I/QFE05NPA2IK4P_WZHBn0Lg/edit?utm_content=DAFmdVh3p_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"
+width="400" height="320"/>
 ___
 
 I am a versatile backend developer with specialization in Node.js, JavaScript, HTML, and CSS. Additionally, I have a strong knowledge of the MERN stack. With a passion for continuous learning, I am constantly expanding my skill set to become an experienced backend developer.
