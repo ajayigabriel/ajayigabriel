@@ -4,7 +4,7 @@ ___
 I am a versatile backend developer with specialization in Node.js, JavaScript, HTML, and CSS. Additionally, I have a strong knowledge of the MERN stack. With a passion for continuous learning, I am constantly expanding my skill set to become an experienced backend developer.
 ___
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn"
+<img align="right" alt="GIF" src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn/giphy.gif"
 width="400" height="320" />
 
 ### Languages & Tools
