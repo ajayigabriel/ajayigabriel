@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="(https://www.canva.com/design/DAFmdVh3p_I/QFE05NPA2IK4P_WZHBn0Lg/edit?utm_content=DAFmdVh3p_I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"
+<img align="right" alt="GIF" src="https://media.canva.com/media/DAFmdVh3p_I/QFE05NPA2IK4P_WZHBn0Lg/canva.img"
 width="400" height="320"/>
 ___
 
