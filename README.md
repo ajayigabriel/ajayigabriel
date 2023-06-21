@@ -1,8 +1,10 @@
 ## 🙋 Hi I'm [Gabriel](https://github.com/Holluhshorlarh) 
 ___
+
 ### About Me
 I am a versatile backend developer with specialization in Node.js, JavaScript, HTML, and CSS. Additionally, I have a strong knowledge of the MERN stack. With a passion for continuous learning, I am constantly expanding my skill set to become an experienced backend developer.
 ___
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="320" />
 
 ### Languages & Tools
@@ -30,15 +32,18 @@ ___
           
 </p>
 ___
+
 ### Skills and Expertise
 - Experienced in developing secure and responsive websites
 - Knowledgeable in the latest technologies, with a focus on JavaScript and Node.js
 - Adaptable and fast learner
 - Strong teamwork and collaboration abilities
 ___
+
 ### My Approach
 I am dedicated to creating responsive and visually appealing websites while ensuring a robust and secure backend. I strive to stay updated with the latest industry trends and technologies, and I am always seeking ways to improve my knowledge and skills in the field.
 ___
+
 ### Why Choose Me
 - Strong passion and commitment to learning new technologies
 - Ability to quickly grasp new concepts
