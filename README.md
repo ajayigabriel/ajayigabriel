@@ -6,8 +6,8 @@ ___
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
 width="400" height="320"/>
-___
-
+<br>
+<br>
 ### Languages & Tools
 <p>
 
