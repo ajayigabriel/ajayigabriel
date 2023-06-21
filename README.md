@@ -53,4 +53,4 @@ ___
 
 ### Get in Touch
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/linkedin/linkedin-original.svg" alt="Me on LinkedIn" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/ajayi-gabriel)
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Me on LinkedIn" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/ajayi-gabriel)
