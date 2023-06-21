@@ -9,9 +9,11 @@ ___
 
 ### Languages & Tools
 <p>
-  
-![Docker(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg) Docker
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg) Git
+  ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg) Docker
+
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg) Git
+
+(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg) Git
 - ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub
 - ![Handlebars](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg) Handlebars
 - ![Heroku](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg) Heroku
