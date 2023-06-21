@@ -1,7 +1,4 @@
-___
-
 I am a versatile backend developer with specialization in Node.js, JavaScript, HTML, and CSS. Additionally, I have a strong knowledge of the MERN stack. With a passion for continuous learning, I am constantly expanding my skill set to become an experienced backend developer.
-___
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
 width="400" height="320"/>
@@ -29,7 +26,6 @@ width="400" height="320"/>
  ![Yarn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg) 
           
 </p>
-___
 
 ### Get in Touch
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Me on LinkedIn" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/ajayi-gabriel)
