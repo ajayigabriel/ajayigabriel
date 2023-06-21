@@ -46,5 +46,6 @@ ___
 - Valuable asset to any development team
 - Enthusiastic about contributing to impactful projects
 ___
+
 ### Get in Touch
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/linkedin/linkedin-original.svg" alt=" Me on LinkedIn" height="auto" width="20"/> [linkedIn](https://www.linkedin.com/in/ajayi-gabriel)
