@@ -1,4 +1,7 @@
-<p> 👋 Hello! I'm <mark>Gabriel</mark>, a versatile backend developer with specialization in Node.js, JavaScript, HTML, and CSS. Additionally, I have a strong knowledge of the MERN stack. With a passion for continuous learning, I am constantly expanding my skill set to become an experienced backend developer.</p>
+
+![WhatsApp Image 2023-06-21 at 2 28 24 PM](https://github.com/Holluhshorlarh/Holluhshorlarh/assets/122808379/adc0c94d-a3ee-43de-96eb-a764ac222ca1)
+
+👋 Hello, I'm Gabriel
 
 ### Languages & Tools
 
