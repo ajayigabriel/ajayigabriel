@@ -1,4 +1,4 @@
-![Gabriel Ajayi Github](https://github.com/Holluhshorlarh/scandi/blob/main/Github%20profile.png/raw=true)
+![Gabriel Ajayi Github](https://github.com/Holluhshorlarh)
 I am a versatile backend developer with specialization in Node.js, JavaScript, HTML, and CSS. Additionally, I have a strong knowledge of the MERN stack. With a passion for continuous learning, I am constantly expanding my skill set to become an experienced backend developer.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
