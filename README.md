@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Holluhshorlarh/Holluhshorlarh/assets/122808379/adc0c94d-a3ee-43de-96eb-a764ac222ca1" alt="assets" width="150" height="350"/>
+<img src="https://github.com/Holluhshorlarh/Holluhshorlarh/assets/122808379/adc0c94d-a3ee-43de-96eb-a764ac222ca1" alt="assets" width="450" height="350"/>
 
                                                      👋 Hello, I'm Gabriel
 ___
