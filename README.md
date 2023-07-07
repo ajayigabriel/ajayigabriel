@@ -3,6 +3,9 @@ I am a versatile backend developer with specialization in Node.js, JavaScript, H
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
 width="400" height="320"/>
 
+<br>
+<br>
+
 ### Languages & Tools
 <p>
 
