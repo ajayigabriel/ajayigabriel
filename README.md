@@ -3,11 +3,10 @@ I am a versatile backend developer with specialization in Node.js, JavaScript, H
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
 width="400" height="320"/>
 
-<br>
-<br>
+
+<p>
 
 ### Languages & Tools
-<p>
 
 ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg)
  ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
