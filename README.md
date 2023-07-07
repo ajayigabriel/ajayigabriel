@@ -2,13 +2,13 @@
 width="1000" height="250"/>
 ___
 
-                                                     👋 Hello, I'm Gabriel
+                                                    👋 Hello, I'm Gabriel
 ___
 
-                            I specialize in server-side programming, data storage, and application logic
+                           I specialize in server-side programming, data storage, and application logic
 ___
 
-                                                      🔌 Languages & Tools
+                                                    🔌 Languages & Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
