@@ -1,5 +1,5 @@
 <img align="auto" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
-width="1000" height="320"/>
+width="1000" height="300"/>
 ___
 
                                                      👋 Hello, I'm Gabriel
