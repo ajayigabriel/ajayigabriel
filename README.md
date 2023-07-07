@@ -29,7 +29,7 @@ ___
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="35" height="35"/>
 </p>
-___
+__
 
                                                     Get in Touch
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Me on LinkedIn" height="50" width="70"/> [LinkedIn](https://www.linkedin.com/in/ajayi-gabriel)
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Me on LinkedIn" height="20" width="50"/> [LinkedIn](https://www.linkedin.com/in/ajayi-gabriel)
