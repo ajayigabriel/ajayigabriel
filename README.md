@@ -4,7 +4,7 @@
                                                      👋 Hello, I'm Gabriel
 ___
 
-<i>I'm a software developer with proficiency in Backend. I specialize in server-side programming, data storage, and application logic.<i>
+<i>I specialize in server-side programming, data storage, and application logic.<i>
 ___
 
 #### Languages & Tools
