@@ -3,7 +3,6 @@ width="1000" height="250"/>
 ___
 
     👋 Hello, I'm Gabriel
-___
 
     I specialize in server-side programming, data storage, and application logic
 ___
