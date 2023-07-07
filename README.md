@@ -4,7 +4,7 @@
                                                      👋 Hello, I'm Gabriel
 ___
 
-I specialize in server-side programming, data storage, and application logic
+                            I specialize in server-side programming, data storage, and application logic
 ___
 
 #### Languages & Tools
