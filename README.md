@@ -31,5 +31,5 @@ ___
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="35" height="35"/>
 </p>
                                                   
-                                                     Get in Touch
+                                                        Get in Touch
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Me on LinkedIn" height="auto" width="35"/> [LinkedIn](https://www.linkedin.com/in/ajayi-gabriel)
