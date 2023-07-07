@@ -7,9 +7,7 @@ width="400" height="320"/>
 
 <p>
 
-![Git](
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-          )
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
  ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
  ![Handlebars](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg) 
  ![Heroku](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg) 
