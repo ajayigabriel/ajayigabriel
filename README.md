@@ -2,12 +2,11 @@
 width="1000" height="250"/>
 ___
 
-    👋 Hello, I'm Gabriel
+### 👋 Hi, I'm Gabriel
 
     I specialize in server-side programming, data storage, and application logic
-___
 
-    🔌Languages & Tools
+### 🔌Languages & Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
@@ -30,5 +29,5 @@ ___
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="35" height="35"/>
 </p>
                                                   
-    Get in Touch
+### Get in Touch
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Me on LinkedIn" height="auto" width="35"/> [LinkedIn](https://www.linkedin.com/in/ajayi-gabriel)
