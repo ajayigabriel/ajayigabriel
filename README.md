@@ -1,7 +1,7 @@
 
 ![WhatsApp Image 2023-06-21 at 2 28 24 PM](https://github.com/Holluhshorlarh/Holluhshorlarh/assets/122808379/adc0c94d-a3ee-43de-96eb-a764ac222ca1)
 
-                                                       👋 Hello, I'm Gabriel
+                                                       ##👋 Hello, I'm Gabriel
 
 ### Languages & Tools
 
