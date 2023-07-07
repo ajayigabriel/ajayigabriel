@@ -1,5 +1,5 @@
-
-![backend](https://github.com/Holluhshorlarh/Holluhshorlarh/assets/122808379/deda3dd4-1df6-4104-86a7-2a9a424d7746)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
+width="400" height="320"/>
 
 
                                                      👋 Hello, I'm Gabriel
