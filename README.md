@@ -4,7 +4,7 @@ ___
 
 ### 👋 Hi, I'm Gabriel
 
-    I specialize in software development, server-side programming, data storage, and application logic
+    I specialize in server-side programming, data storage & security, QA testing, documentation, webhosting and application logic
 
 ### 🔌Languages & Tools
 
